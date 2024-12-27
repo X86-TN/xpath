@@ -2,6 +2,7 @@
   "xpaths": [
     "//img[@src='/icons/power_icon.svg']",
     "//p[text()='Start Earning']",
+    "//*[text()=\"Start Earning\"]",
     "//*[text()=\"Join now!\"]",
     "//*[text()=\"Next\"]",
     "//*[text()=\"Claim gift\"]",
