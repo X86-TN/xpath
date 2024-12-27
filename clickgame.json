@@ -1,5 +1,6 @@
 {
   "xpaths": [
+    "//p[text()='Start Earning']",
     "//*[text()=\"Join now!\"]",
     "//*[text()=\"Next\"]",
     "//*[text()=\"Claim gift\"]",
